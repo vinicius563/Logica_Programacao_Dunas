@@ -1,4 +1,7 @@
 # Exemplos de IF ELIF ELSE:
+# if = SE
+# else = OU
+
 idade = 20
 
 if idade < 18:
@@ -8,4 +11,3 @@ elif idade >= 18 and idade < 65:
 else:
     print("você é idoso")
 
-    
