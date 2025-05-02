@@ -21,4 +21,3 @@ elif nota >=7:
     print("Recuperação")
 else:
     print("Reprovado")
-    
